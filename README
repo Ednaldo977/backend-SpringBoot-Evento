@@ -1,0 +1,13 @@
+//GET
+https://backend-springboot-evento-production.up.railway.app/api/eventos
+https://backend-springboot-evento-production.up.railway.app/api/categorias
+https://backend-springboot-evento-production.up.railway.app/api/enderecos
+https://backend-springboot-evento-production.up.railway.app/api/telefones
+https://backend-springboot-evento-production.up.railway.app/api/tipofuncoes
+https://backend-springboot-evento-production.up.railway.app/api/usuarios
+
+//PUT
+
+//DELETE
+
+//POST
